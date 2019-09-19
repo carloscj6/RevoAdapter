@@ -1,0 +1,2 @@
+include ':app', ':revoadapter'
+rootProject.name='RevoAdapter'
